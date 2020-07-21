@@ -1,6 +1,6 @@
 # Learn you want. Teach you must.
 
-There is no way out. If you want to continue growing and don't want your pace to lag you have to teach - students, peers, interns, family, friends, superiors, seniors, juniors and the list goes on.
+There is no way out. If you want to continue growing and don't want your pace to lag you have to teach - students, peers, interns, family, friends, superiors, seniors, juniors and the list goes on. However, don't precipitate your actions! Don't rush! It takes time to reach that level but once you're there you can cruise along.
 
 ## Gaps in Knowledge.
 Don't compromise with your competency. Identify your weaknesses and inconsistencies. Look up a reliable source of information and fill the gaps.
