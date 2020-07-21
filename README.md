@@ -7,7 +7,7 @@ It all starts with focus. Focus is the opposite of distraction. You might know a
 ## Knowledge.
 Knowledge comes from consistency and hard work. Knowledge gives a sense of control. Yet, knowledge is not equivalent to expertise. Expertise comes from teaching and other forms of training. Don't compromise with your competency! Identify your weaknesses and inconsistencies in your knowledge - they can turn out to be pretty expensive for your employer. Thus, look up a reliable source of information, join a workshop or enrol for a college degree and fill the gaps. Or else, you will eventually end up in an embarrassing situation.
 ## Format.
-The best way to teach is to help. Be it a blog, a book, a tutorial, conference talk, guest lecture, teaching assistantship at your old university, mentorship or supervision - this is upto you and your luck of striking a pertinent opportunity.
+The best way to teach is to help. And it's an inherent part of human nature (!). Be it a blog, a book, a tutorial, conference talk, guest lecture, teaching assistantship at your old university, mentorship or supervision - this is upto you and your luck of striking a pertinent opportunity.
 ## Structure.
 Break down the content into sensible chunks of content. Then, make the complex simple - in written word - for your own understanding and guiding thread.
 ## References.
