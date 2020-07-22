@@ -10,7 +10,13 @@ Knowledge comes from consistency and hard work. Knowledge gives a sense of contr
 The best way to teach is to help. And it's an inherent part of human nature (!). Consequentially, that makes all of us teachers (!). So, be it a blog, a book, a tutorial, conference talk, guest lecture, teaching assistantship at your old university, mentorship or supervision (this is upto you and your luck of striking a pertinent opportunity) start working on it. By the time your initiative gains traction you will have set up an effective marketing strategy with a stable audience. Go ahead - give it a shot!
 ## Structure.
 Break down the content into sensible tasks. Having a broad overview will make it easier for you to dole out the time you want to dedicate to the explanation of each of them and ensure you are making consistent progress towards your ultimate goal. Then, make the complex simple - in written word.
+## Multitasking
+According to research conducted by the American Psychological Association [1] multitasking reduces productivity.
+Break down the content into sensible tasks. Having a broad overview will make it easier for you to dole out the time you want to dedicate to the explanation of each of them and ensure you are making consistent progress towards your ultimate goal. Then, make the complex simple - in written word.
 ## References.
 Use resources as aid to deliver key messages with power.
 ## Confidence.
 Special teaching skills matter less. Confidence matters more!
+
+References
+1. [Multitasking: Switching costs](https://www.apa.org/research/action/multitask)
