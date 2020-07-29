@@ -10,7 +10,7 @@ The best way to teach is to help. And it's an inherent part of human nature (!).
 Break down the content into sensible tasks. Putting together a broad overview will make it easier for you to dole out the time you want to dedicate to the explanation of each of them and ensure you are making steady progress towards your ultimate goal. Having multiple tasks will also make it more likely to understand and explain them correctly. Now, make the complex simple - in written word. Use literature resources such as books as aid to deliver key messages with power. A sample structure looks as follows [2]:
 * Big picture: What can you do with all the individual elements? How are they related?
 * How to get started
-* 20% of the knowledge one needs to be most efficient and get 80% work done
+* 20% of the knowledge one needs to be most efficient and get 80% work done (Pareto Principle)
 ## Multitasking.
 You won't get round to multitasking a job with additional self-study if you want to teach! According to research conducted by the American Psychological Association [3] multitasking reduces productivity. Assuming it takes time to reach a focused mode of thinking switching tasks indeed doesn't sound very efficient. However, this doesn't hold true for all tasks. Batching is an effective strategy to perform multitasking [1]. Let me articulate: Batching refers to working on a series of related tasks in a row rather than spread out (e.g. over a month) task-switching. With batching you can build up the deep focus you require to get your work done and at the same time focus is not broken on the bigger, more time-consuming tasks.
 ## Confidence.
