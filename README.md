@@ -13,16 +13,17 @@ Break down the content into sensible tasks. Putting together a broad overview wi
 * 20% of the knowledge one needs to be most efficient and get 80% work done (Pareto Principle)
 
 The minute you learn something, turn around and teach it to others. Share your reading list. Point to helpful reference materials. Create some tutorials and post them online.
-Use pictures, words, and video. Take people step-by-step through part of your process. Make people better at something they want to be better at.
+Use pictures, words, and video. Take people step-by-step through part of your process. Make people better at something they want to be better at [3]
 ## Multitasking.
 You won't get round to multitasking a job with additional self-study if you want to teach! According to research conducted by the American Psychological Association [3] multitasking reduces productivity. Assuming it takes time to reach a focused mode of thinking switching tasks indeed doesn't sound very efficient. However, this doesn't hold true for all tasks. Batching is an effective strategy to perform multitasking [1]. Let me articulate: Batching refers to working on a series of related tasks in a row rather than spread out (e.g. over a month) task-switching. With batching you can build up the deep focus you require to get your work done and at the same time focus is not broken on the bigger, more time-consuming tasks.
 ## Confidence.
 Special teaching skills matter less. Confidence matters more!
 
 Teaching people doesn’t subtract value from what you do, it actually adds to it. When you teach someone how to do your work, you are, in effect, generating more interest in
-your work. People feel closer to your work because you’re letting them in on what you know. Best of all, when you share your knowledge and your work with others, you receive an education in return.
+your work. People feel closer to your work because you’re letting them in on what you know. Best of all, when you share your knowledge and your work with others, you receive an education in return [3].
 
 ## References.
 1. [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B0158SJ3EM/ref=sr_1_2?crid=3HVFIE1SLSRWW&dchild=1&keywords=soft+skills&qid=1595439982&s=books&sprefix=soft+skills%2Caps%2C252&sr=1-2)
 2. [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.amazon.com/Complete-Software-Developers-Career-Guide/dp/B078J67VNF/ref=sr_1_1?dchild=1&keywords=software+complete&qid=1596059582&sr=8-1)
-3. [Multitasking: Switching costs](https://www.apa.org/research/action/multitask)
+3. [Show Your Work](https://www.amazon.com/-/de/dp/076117897X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2H2QBKNIQ802A&dchild=1&keywords=show+your+work&qid=1616516208&sprefix=show+your+work%2Caps%2C232&sr=8-1)
+4. [Multitasking: Switching costs](https://www.apa.org/research/action/multitask)
