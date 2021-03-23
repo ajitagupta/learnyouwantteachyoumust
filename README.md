@@ -13,7 +13,7 @@ Break down the content into sensible tasks. Putting together a broad overview wi
 * 20% of the knowledge one needs to be most efficient and get 80% work done (Pareto Principle)
 
 The minute you learn something, turn around and teach it to others. Share your reading list. Point to helpful reference materials. Create some tutorials and post them online.
-Use pictures, words, and video. Take people step-by-step through part of your process. Make people better at something they want to be better at [3]
+Use pictures, words, and video. Take people step-by-step through part of your process. Make people better at something they want to be better at [3].
 ## Multitasking.
 You won't get round to multitasking a job with additional self-study if you want to teach! According to research conducted by the American Psychological Association [3] multitasking reduces productivity. Assuming it takes time to reach a focused mode of thinking switching tasks indeed doesn't sound very efficient. However, this doesn't hold true for all tasks. Batching is an effective strategy to perform multitasking [1]. Let me articulate: Batching refers to working on a series of related tasks in a row rather than spread out (e.g. over a month) task-switching. With batching you can build up the deep focus you require to get your work done and at the same time focus is not broken on the bigger, more time-consuming tasks.
 ## Confidence.
