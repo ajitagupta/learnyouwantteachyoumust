@@ -16,7 +16,9 @@ The minute you learn something, turn around and teach it to others. Share your r
 Use pictures, words and video. Take people step-by-step through the process. Make people better at something they want to be better at [3]. By teaching someone else you learn what you understand and what you don't. You discover your strnegths and weaknesses. That way you can go back and review and achieve a greater understanding of almost anything. If you can present information in a way that is cohesive, simple and complete then you'ver mastered the subject, and if you can't, then you know exactly what to tackle next.
 
 ## Multitasking.
-You won't get round to multitasking if you want to teach! According to research conducted by the American Psychological Association [3] multitasking reduces productivity. Assuming it takes some time to reach the focused mode of thinking (you require about seventeen minutes to refocus on an important task after being distracted, for any
+You won't get round to multitasking if you want to teach! According to research conducted by the American Psychological Association [3] multitasking reduces productivity. A Stanford University study concluded that multitasking lowers efficiency and may impair your cognitive control.
+
+Assuming it takes some time to reach the focused mode of thinking (you require about seventeen minutes to refocus on an important task after being distracted, for any
 reason), switching tasks indeed doesn't sound very efficient. However, this doesn't hold true for all tasks. Batching is an effective strategy to perform multitasking [1]. Let me articulate: Batching refers to working on a series of related tasks in a row rather than spread out. With batching you can build up the deep focus necessary to get your work done and at the same time your focus is not broken on the bigger, more time-consuming tasks.
 ## Confidence.
 Special teaching skills matter less. Confidence matters more!
