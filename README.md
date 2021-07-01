@@ -21,7 +21,8 @@ You won't get round to multitasking if you want to teach! According to research 
 Assuming it takes some time to reach the focused mode of thinking (you require about seventeen minutes to refocus on an important task after being distracted, for any
 reason), switching tasks indeed doesn't sound very efficient. However, this doesn't hold true for all tasks. Batching is an effective strategy to perform multitasking [1]. Let me articulate: Batching refers to working on a series of related tasks in a row rather than spread out. With batching you can build up the deep focus necessary to get your work done and at the same time your focus is not broken on the bigger, more time-consuming tasks.
 ## Confidence.
-Special teaching skills matter less. Confidence matters more!
+Special teaching skills matter less. Confidence matters more! This attitude of calm, confident expectation that all will be well is an experience of higher consciousness. Religious people refer to this as prayer, and it is said that prayer is the highest form of affirmation.
+
 
 Teaching people doesn't subtract value from what you do, it actually adds to it. When you teach someone how to do your work, you are, in effect, generating more interest in
 your work. People feel closer to your work because you're letting them in on what you know. Best of all, when you share your knowledge and your work with others, you receive an education in return [3].
