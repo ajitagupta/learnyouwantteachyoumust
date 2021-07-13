@@ -26,10 +26,11 @@ Special teaching skills matter less. Confidence matters more! This attitude of c
 
 
 Teaching people doesn't subtract value from what you do, it actually adds to it. When you teach someone how to do your work, you are, in effect, generating more interest in
-your work. People feel closer to your work because you're letting them in on what you know. Best of all, when you share your knowledge and your work with others, you receive an education in return [3].
+your work. People feel closer to your work because you're letting them in on what you know. Best of all, when you share your knowledge and your work with others, you receive an education in return [4].
 
 ## References.
 1. [Soft Skills: The Software Developer's Life Manual](https://www.amazon.com/Soft-Skills-Software-Developers-Manual/dp/B0158SJ3EM/ref=sr_1_2?crid=3HVFIE1SLSRWW&dchild=1&keywords=soft+skills&qid=1595439982&s=books&sprefix=soft+skills%2Caps%2C252&sr=1-2)
 2. [The Complete Software Developer's Career Guide: How to Learn Programming Languages Quickly, Ace Your Programming Interview, and Land Your Software Developer Dream Job](https://www.amazon.com/Complete-Software-Developers-Career-Guide/dp/B078J67VNF/ref=sr_1_1?dchild=1&keywords=software+complete&qid=1596059582&sr=8-1)
-3. [Show Your Work](https://www.amazon.com/-/de/dp/076117897X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2H2QBKNIQ802A&dchild=1&keywords=show+your+work&qid=1616516208&sprefix=show+your+work%2Caps%2C232&sr=8-1)
-4. [Multitasking: Switching costs](https://www.apa.org/research/action/multitask)
+3. [Multitasking: Switching costs](https://www.apa.org/research/action/multitask)
+4. [Show Your Work](https://www.amazon.com/-/de/dp/076117897X/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2H2QBKNIQ802A&dchild=1&keywords=show+your+work&qid=1616516208&sprefix=show+your+work%2Caps%2C232&sr=8-1)
+
