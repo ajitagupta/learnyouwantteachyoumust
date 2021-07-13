@@ -11,7 +11,7 @@ Take all the information you learnt and create a lesson that anybody could under
 * Big picture: What can you do with all the individual elements? How are they related?
 * How to get started
 * 20% of the knowledge one needs to be most efficient and get 80% work done (Pareto Principle)
-* Conclusion
+* What comes next
 
 The minute you learn something, turn around and teach it to others. Share your reading list. Point to helpful reference materials. Create some tutorials and post them online.
 Use pictures, words and video. Take people step-by-step through the process. Make people better at something they want to be better at [3]. By teaching someone else you learn what you understand and what you don't. You discover your strnegths and weaknesses. That way you can go back and review and achieve a greater understanding of almost anything. If you can present information in a way that is cohesive, simple and complete then you've mastered the subject, and if you can't, then you know exactly what to tackle next.
