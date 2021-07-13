@@ -20,7 +20,10 @@ Use pictures, words and video. Take people step-by-step through the process. Mak
 You won't get around multitasking if you want to teach! According to research conducted by the American Psychological Association [3] multitasking reduces productivity. A Stanford University study concluded that multitasking lowers efficiency and may impair your cognitive control.
 
 Assuming it takes some time to reach the focused mode of thinking (you require about seventeen minutes to refocus on an important task after being distracted, for any
-reason), switching tasks indeed doesn't sound very efficient. However, this doesn't hold true for all tasks. Batching is an effective strategy to perform multitasking [1]. Let me articulate: Batching refers to working on a series of *related* tasks *in a row* rather than spread out. With batching you have enough time to build up **and** maintain the deep focus necessary to get your work done.
+reason), switching tasks indeed doesn't sound very efficient. However, this doesn't hold true for all tasks. Batching is an effective strategy to perform multitasking [1]. Let me articulate: Batching refers to working on a series of *related* tasks *in a row* rather than spread out. How does this help? Well, with batching you are not breaking the focus on bigger tasks. Plus, you have enough time to build up **and** maintain the deep focus necessary to get the smaller tasks done as well.
+
+It only makes sense that if you can combine two tasks and actually do them both you’ll be able to get much more done. The trick is figuring out what tasks can actually be combined without reducing the productivity on each task more than the overall gain. Email is a great place to start, but anything that you do in small intervals is a good candidate for batching.
+
 ## Confidence.
 Special teaching skills matter less. Confidence matters more! This attitude of composed, confident expectation that all will be well is an experience of higher consciousness. Religious people refer to this as prayer, and it is said that prayer is the highest form of affirmation.
 
