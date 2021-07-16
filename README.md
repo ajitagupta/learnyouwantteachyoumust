@@ -25,7 +25,7 @@ reason), switching tasks indeed doesn't sound very efficient. However, this does
 It only makes sense that if you can combine two tasks and actually do them both you’ll be able to get much more done. The trick is figuring out what tasks can actually be combined without reducing the productivity on each task more than the overall gain. Email is a great place to start, but anything that you do in small intervals is a good candidate for batching.
 
 ## Confidence.
-Special teaching skills matter less. Confidence matters more! This attitude of composed, confident expectation that all will be well is an experience of higher consciousness. Religious people refer to this as prayer, and it is said that prayer is the highest form of affirmation.
+Special teaching skills matter less. Confidence matters more! This attitude of composed, confident expectation that all will be well is an experience of higher consciousness. Religious people refer to this as prayer, and it is said that prayer is the highest form of affirmation. That's all you need to boost your energy and feel motivated!
 
 
 Teaching people doesn't subtract value from what you do, it actually adds to it. When you teach someone how to do your work, you are, in effect, generating more interest in
